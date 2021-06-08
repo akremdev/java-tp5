@@ -71,6 +71,8 @@ System.out.println("Creation Personne ");
 }}
 ```
 `Code de la classe PersonneMainEcriture : `
+
+```java
 package personne;
 import java.io.*;
 import java.util.*;
@@ -126,8 +128,6 @@ e.printStackTrace();
 e.printStackTrace();
 }}
 }
-```java
-
 ```
 
 
